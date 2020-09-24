@@ -1,13 +1,8 @@
 <template>
-    <div>
-        测试pull做的修改
-    </div>
+  <div>测试pull</div>
 </template>
 <script>
-export default {
-    
-}
+export default {};
 </script>
 <style scoped>
-
 </style>
